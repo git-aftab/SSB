@@ -52,7 +52,7 @@ Model Waveform
 <img width="706" height="167" alt="image" src="https://github.com/user-attachments/assets/bff0d8fd-d679-444e-af37-0b34585853c1" />
 
 Program
----
+```
 Am = 5.8;
 fm = 497;
 Ac = 11.6;
@@ -80,8 +80,7 @@ plot(t,s_lsb);
 s_usb = s1-s2;
 subplot(4,1,4);
 plot(t,s_usb);
-
-
+```
 
 OUTPUT WAVEFORM
 <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/6a11e7a4-a47a-498b-9d35-c455413c7bb4" />
